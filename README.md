@@ -47,5 +47,9 @@ can use session values to modify posts that you have created.
 
 
 ## ScrenShot
+
+indexPage
 ![indexPage](https://user-images.githubusercontent.com/41640324/61532279-4e61e200-aa64-11e9-9cd8-a01bee42f986.PNG)
+getPage
 ![getBoard](https://user-images.githubusercontent.com/41640324/61532337-794c3600-aa64-11e9-808b-a34a92992c90.PNG)
+![getBoard](https://user-images.githubusercontent.com/41640324/61532363-8ff28d00-aa64-11e9-88ee-048fb9ef37e9.PNG)
